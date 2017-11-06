@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 nov. 2017, 16:49:50
+    Author     : Anouar
+*/
+body {
+    counter-reset: section;
+    background: beige;
+}
+
+h1 {
+    counter-reset: subsection;
+    background-color: aqua; 
+}
+
+h1::before {
+    counter-increment: section;
+    content: "Section " counter(section) ". ";
+}
+
+h2 {
+    counter-reset: subsection;
+    background-color: aquamarine; 
+}
+h2::before {
+    counter-increment: subsection;
+    content: counter(section) "." counter(subsection) " ";
+}
+p {
+    color: red;
+}
+
+
+
+

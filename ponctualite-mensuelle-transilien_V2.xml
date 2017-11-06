@@ -1,0 +1,3747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ponctualite-mensuelle>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-01</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-02</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>80.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>75.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-03</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>80.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>77.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-04</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>17.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-05</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>21.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-08</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-08</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-08</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>20.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>24.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-09</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-09</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>30.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-11</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>77.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-01</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-01</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>14.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>23.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>76.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-02</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-02</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-03</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>22.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>17.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-05</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>31.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>79.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-07</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-07</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-08</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>23.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-10</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-10</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.3097137157</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.2800648893</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.8763888061</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-12</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>80.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2015-01</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.562984012</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2015-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.886480495</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2015-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.6733138523</Taux_de_ponctualite>
+        <Voyageurs_en_retard>17.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2015-02</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>73.0954862767</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2015-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.4461717765</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2015-03</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>71.9550770992</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2015-03</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.3263168075</Taux_de_ponctualite>
+        <Voyageurs_en_retard>26.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2015-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.4978944245</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2015-04</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.1725099925</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2015-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.114716919</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2015-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.9381245311</Taux_de_ponctualite>
+        <Voyageurs_en_retard>23.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2015-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.9440173559</Taux_de_ponctualite>
+        <Voyageurs_en_retard>18.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2015-06</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>71.1496303121</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2015-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.0426262557</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2015-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.1866824833</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2015-07</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2015-07</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2015-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2015-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2015-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2015-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2015-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>23.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-01</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>77.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>17.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-02</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-02</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>17.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-05</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>24.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>71.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-08</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>14.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>20.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-09</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-09</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-11</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>80.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-11</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>77.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>24.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-02</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>19.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>24.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>20.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-04</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-04</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>22.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-05</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>24.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-06</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite></Taux_de_ponctualite>
+        <Voyageurs_en_retard>0.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-06</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-06</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>20.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>17.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>16.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-09</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-10</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>68.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-10</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>77.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>14.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-11</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>69.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.7480048369</Taux_de_ponctualite>
+        <Voyageurs_en_retard>18.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2015-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.5645619782</Taux_de_ponctualite>
+        <Voyageurs_en_retard>21.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2015-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.1798892246</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2015-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.1373543647</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2015-02</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.3965470191</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2015-02</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.6087087474</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2015-03</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.9155867451</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2015-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.0638677623</Taux_de_ponctualite>
+        <Voyageurs_en_retard>24.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2015-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.1187031039</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2015-04</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>71.9766560096</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2015-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.7900630753</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2015-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.9060416413</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2015-05</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.9952922687</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2015-05</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.3768853161</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2015-05</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.9872926887</Taux_de_ponctualite>
+        <Voyageurs_en_retard>23.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2015-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.8420374434</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2015-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.7811658877</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2015-06</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.9707913192</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2015-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.6352043617</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2015-07</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2015-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>78.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2015-08</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.9967982302</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2015-08</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>17.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2015-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>26.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2015-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-01</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-02</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-03</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>20.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-06</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-06</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-07</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-07</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-08</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-10</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>79.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-10</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>19.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-11</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-12</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-12</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>18.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>17.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-01</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-01</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-02</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-02</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-03</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>16.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>26.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-04</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-05</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-05</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-05</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-06</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>72.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>21.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-07</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>70.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-08</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-08</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-08</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-09</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-09</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-09</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>24.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>14.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-10</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-11</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.8628382913</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2014-12</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2015-01</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2015-01</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.4032715394</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2015-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.2331383961</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2015-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.9493380196</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2015-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.0582355825</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2015-03</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.8537787545</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2015-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.9023923154</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2015-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.2541415409</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2015-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.3490746305</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2015-04</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.539314526</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2015-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.0794493186</Taux_de_ponctualite>
+        <Voyageurs_en_retard>19.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2015-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.9561752108</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2015-05</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.4447374589</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2015-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.9248180007</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2015-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.7029222345</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2015-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.6322194653</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2015-06</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.1727621706</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2015-06</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.8097061383</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2015-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.3224849552</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2015-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.8351116319</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2015-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.6587166493</Taux_de_ponctualite>
+        <Voyageurs_en_retard>14.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2015-07</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>14.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2015-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2015-08</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.9183310249</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2015-08</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2015-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>26.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2015-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>75.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-02</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>79.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-03</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-04</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-04</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-05</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>23.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-06</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-07</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-07</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>16.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>20.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-10</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>80.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>77.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-12</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-12</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2013-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>19.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-03</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>20.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-11</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.7347499119</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.5732734419</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2015-02</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.642140672</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2015-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.0869749682</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2015-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.8190167315</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2015-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.7710751127</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2015-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.2221584141</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2015-03</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.3083523461</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2015-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>81.7515864371</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2015-05</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>71.2171208681</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2015-05</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.3842125718</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2015-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2015-08</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-01</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>80.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-01</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>11.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.8</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-03</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-03</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-04</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-04</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>25.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-05</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-05</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-06</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2013-06</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2013-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-07</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>16.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2013-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-09</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>20.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2013-10</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2013-10</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>16.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2013-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2013-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2013-11</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>76.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>3.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2013-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2013-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>80.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_2</ID>
+        <Date>2013-12</Date>
+        <Service>RER</Service>
+        <Ligne>B</Ligne>
+        <Nom_de_la_ligne>RER B</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2013-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-01</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>82.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>4.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2014-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-03</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-03</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-04</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-04</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-06</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.8</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2014-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2014-07</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-07</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_9</ID>
+        <Date>2014-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>L</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Sud</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2014-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-08</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>24.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>21.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-09</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>70.9</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-09</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>96.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>26.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2014-10</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>14.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-11</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.7789019644</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-11</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.6646036773</Taux_de_ponctualite>
+        <Voyageurs_en_retard>22.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>85.7755475979</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.0</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-11</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>91.4502809243</Taux_de_ponctualite>
+        <Voyageurs_en_retard>10.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2014-12</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>67.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2014-12</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.2</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2014-12</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>92.7</Taux_de_ponctualite>
+        <Voyageurs_en_retard>12.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2014-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>84.3</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2014-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>83.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>5.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2014-12</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2015-01</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>74.5</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2015-01</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.9052094942</Taux_de_ponctualite>
+        <Voyageurs_en_retard>18.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_12</ID>
+        <Date>2015-01</Date>
+        <Service>Transilien</Service>
+        <Ligne>R</Ligne>
+        <Nom_de_la_ligne>Paris Sud Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.2314187431</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2015-02</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.0738560337</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.9</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_6</ID>
+        <Date>2015-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>H</Ligne>
+        <Nom_de_la_ligne>Paris Nord Ouest</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.1782150702</Taux_de_ponctualite>
+        <Voyageurs_en_retard>16.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2015-02</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.7710664217</Taux_de_ponctualite>
+        <Voyageurs_en_retard>15.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2015-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>94.7538671561</Taux_de_ponctualite>
+        <Voyageurs_en_retard>18.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2015-03</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>95.9220368347</Taux_de_ponctualite>
+        <Voyageurs_en_retard>23.5</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_3</ID>
+        <Date>2015-04</Date>
+        <Service>RER</Service>
+        <Ligne>C</Ligne>
+        <Nom_de_la_ligne>RER C</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.2820641654</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.3</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_4</ID>
+        <Date>2015-04</Date>
+        <Service>RER</Service>
+        <Ligne>D</Ligne>
+        <Nom_de_la_ligne>RER D</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.5549619436</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2015-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>86.184744626</Taux_de_ponctualite>
+        <Voyageurs_en_retard>6.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_13</ID>
+        <Date>2015-04</Date>
+        <Service>Transilien</Service>
+        <Ligne>U</Ligne>
+        <Nom_de_la_ligne>La Verri�re - La D�fense</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.1680234041</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_5</ID>
+        <Date>2015-06</Date>
+        <Service>RER</Service>
+        <Ligne>E</Ligne>
+        <Nom_de_la_ligne>RER E</Nom_de_la_ligne>
+        <Taux_de_ponctualite>93.059152876</Taux_de_ponctualite>
+        <Voyageurs_en_retard>13.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2015-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>88.9715832454</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2015-06</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>87.8383549997</Taux_de_ponctualite>
+        <Voyageurs_en_retard>7.2</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_1</ID>
+        <Date>2015-07</Date>
+        <Service>RER</Service>
+        <Ligne>A</Ligne>
+        <Nom_de_la_ligne>RER A</Nom_de_la_ligne>
+        <Taux_de_ponctualite>73.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>2.7</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_8</ID>
+        <Date>2015-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>K</Ligne>
+        <Nom_de_la_ligne>Paris Nord Cr�py</Nom_de_la_ligne>
+        <Taux_de_ponctualite>89.4</Taux_de_ponctualite>
+        <Voyageurs_en_retard>8.4</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_10</ID>
+        <Date>2015-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>N</Ligne>
+        <Nom_de_la_ligne>Paris Montparnasse</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.6</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.6</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_11</ID>
+        <Date>2015-07</Date>
+        <Service>Transilien</Service>
+        <Ligne>P</Ligne>
+        <Nom_de_la_ligne>Paris Est</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.1</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.1</Voyageurs_en_retard>
+    </voyage>
+    <voyage>
+        <ID>TRA_7</ID>
+        <Date>2015-08</Date>
+        <Service>Transilien</Service>
+        <Ligne>J</Ligne>
+        <Nom_de_la_ligne>Paris Saint-Lazare Nord</Nom_de_la_ligne>
+        <Taux_de_ponctualite>90.0</Taux_de_ponctualite>
+        <Voyageurs_en_retard>9.0</Voyageurs_en_retard>
+    </voyage>
+</ponctualite-mensuelle>
