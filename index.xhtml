@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1252"?>
+<?xml version="1.0"?>
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -7,36 +7,230 @@ and open the template in the editor.
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>MOD 8.4 - Repr�sentation et manipulation de donn�es
-            structur�es - BE 1</title>
+        <title>MOD 8.4 - Représentation et manipulation de données
+            structurées - BE 1</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link rel="stylesheet" type="text/css" href="CSS_BE1.css" media="screen" />
     </head>
-
-
-
-
-
     <body>
-        
-        MOD 8.4 - Repr�sentation et manipulation de donn�es
-            structur�es - BE 1 
-        D�veloppement d'une application XML munie d'une DTD - Visualisation,
-            Validation.
-        <h1>Conception d'une application XML</h1>
-        <h2>Observer les donn�es</h2>
-        <h2>Concevoir une application XML</h2>
+
+        <h1>BE1. Groupe 13.</h1>
+        <h1>Développement d'une application XML munie d'une DTD - Visualisation, Validation.</h1>
+        <h2>1. Déroulement de la séance</h2>
         <p>
-            
+            Ce travail a été effectué en binômes.<br />
+            Notre binômes se compose de:<br />
         </p>
-        <h2>Anticiper les probl�mes</h2>
-        <h1>Cr�ation d'un document XML</h1>
-        <h2>Importer les donn�es</h2>
-        <h1>Affichage d'un document XML</h1>
-        <h2>Afficher le document XML</h2>
-        <h1>Validation d'un document XML</h1>
-        <h2>�crire une DTD d�crivant la syntaxe du document XML</h2>
-        <h2>Valider le document XML en ligne</h2>
-        <h2>D�velopper un validateur</h2>
+        <ul>
+            <li><b>Anouar Mechti</b></li>
+            <li><b>Loïc Gauthier</b></li>
+        </ul>
+        <p>   
+            Les livrables demandés pour ce BE1 sont zippés dans le fichier nommé: <b>BE1_Gauthier_MECHTI.zip</b>
+            et nous l'avons déposé sur la plateforme pédagogique dans la zone "travaux".
+        </p>
+        <h2>2. Compte-rendu</h2>
+        <h3>Q1. Rédiger un compte-rendu :</h3>
+        <p>
+            Le compte-rendu de ce BE est le fichier nommé <b>index.html</b>. Il est
+            au format XHTML et validé à l'aide du validateur (http://validator.w3.org/#validate_by_upload) mis en ligne par le W3C.
+
+            <br /><br />__N.B.__ Le compte-rendu comporte tous les liens (sous forme d'URLs relatives) nécessaires pour consulter
+            les documents réalisés.
+        </p>
+        <h2>3. Conception d'une application XML</h2>
+        <p>
+            Le  fichier de données nommé ponctualite-mensuelletransilien.csv contient des informations sur la ponctualité des trains de banlieue parisiens entre janvier 2013 et
+            août 2015.
+        </p>
+        
+
+        <h3>Q2. Observer les données</h3>
+        <p>
+            Le document CSV est une suite de mesures de ponctualité (date, taux de ponctualités, ratio nombre de voyageurs à l'heure / nombre de voyageurs en retard) réalisées sur un ensemble de train. Chaque train est caractérisé par un ID unique, mais aussi par un service, une ligne et un nom de ligne. Et pour chaque train, une ou plusieurs mesures ont été réalisées.
+
+        </p>
+        <h3>Q3. Concevoir une application XML</h3>
+        <p>
+            Décrire le vocabulaire _(nom des éléments et des attributs)_ et la structure _(position des éléments et des attributs)_
+            d'une application XML répondant au cahier des charges.
+        </p>
+        <pre class="grey frame">&lt;?xml version="1.0" encoding="ISO-8859-1"?&gt;
+
+&lt;!DOCTYPE racine [
+	&lt;!ELEMENT racine (service+)&gt;
+	&lt;!ELEMENT service (train+)&gt;
+	&lt;!ELEMENT train (ligne, nom_ligne, mesure+)&gt;
+	&lt;!ELEMENT ligne (#PCDATA)&gt;
+	&lt;!ELEMENT nom_ligne (#PCDATA)&gt;
+	&lt;!ELEMENT mesure (date, taux, ratio)&gt;
+	&lt;!ELEMENT date (#PCDATA)&gt;
+	&lt;!ELEMENT taux (#PCDATA)&gt;
+	&lt;!ELEMENT ratio (#PCDATA)&gt;
+	&lt;!ATTLIST service serv (rer|transilien) #REQUIRED&gt;
+	&lt;!ATTLIST train id ID #REQUIRED&gt;
+
+]&gt;</pre>
+        <p><i>(<a href="./DTD_ponctualite-mensuelle-transilien.dtd">voir source</a>)</i></p>
+        <h3>Q4. Anticiper les problèmes</h3>
+        <p>
+            Sachant qu'il vous sera demandé de créer un document XML conforme à la syntaxe que vous avez imaginée, à partir
+            des données du fichier fourni, et que l'on vous demandera d'afficher ce document mis en page dans un navigateur à
+            l'aide d'une feuille de style CSS, modifier éventuellement la syntaxe que vous proposez.
+        </p>
+
+        <h2>4. Création d'un document XML</h2>
+        <p>
+            On désire maintenant créer un document XML que l'on nommera ponctualite-mensuelle-transilien.xml
+            conforme à la syntaxe qui vient d'être conçue, et contenant les données du fichier CSV éponyme. Pour information, le
+            fichier CSV est codé en ISO-8859-1.
+        </p>
+        <h3>Q5. Importer les données</h3>
+        <p>
+            En vous reportant au mode d'emploi du module python nommé csv (https://docs.python.org/3/library/csv.html) pour la
+            lecture du fichier, et lxml.etree (http://lxml.de/tutorial.html) pour le traitement XML, écrire un programme python
+            permettant de créer un document XML conforme à l'application conçue précédemment et contenant les données du
+            fichier CSV fourni. Créer ce document.
+        </p>
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #888888">#!/usr/bin/env python3</span>
+<span style="color: #888888"># -*- coding: utf-8 -*-</span>
+<span style="color: #DD4422">&quot;&quot;&quot;</span>
+<span style="color: #DD4422">Created on Mon Nov  6 14:00 2017</span>
+<span style="color: #DD4422">BE 1 - XML</span>
+<span style="color: #DD4422">@author: Groupe 13</span>
+<span style="color: #DD4422">&quot;&quot;&quot;</span>
+
+<span style="color: #008800; font-weight: bold">import</span> <span style="color: #0e84b5; font-weight: bold">csv</span>    
+<span style="color: #008800; font-weight: bold">from</span> <span style="color: #0e84b5; font-weight: bold">collections</span> <span style="color: #008800; font-weight: bold">import</span> defaultdict          
+
+
+<span style="color: #888888">#PARTIE LECTURE DE LA BASE</span>
+<span style="color: #888888">#_________________________</span>
+
+f <span style="color: #333333">=</span> <span style="color: #007020">open</span>(<span style="background-color: #fff0f0">&quot;ponctualite-mensuelle-transilien.csv&quot;</span>, encoding<span style="color: #333333">=</span><span style="background-color: #fff0f0">&quot;ISO-8859-1&quot;</span>)
+csv_f <span style="color: #333333">=</span> csv<span style="color: #333333">.</span>reader(f, delimiter<span style="color: #333333">=</span><span style="background-color: #fff0f0">&quot;;&quot;</span>)   
+data <span style="color: #333333">=</span> []
+
+<span style="color: #008800; font-weight: bold">for</span> row <span style="color: #000000; font-weight: bold">in</span> csv_f: 
+   data<span style="color: #333333">.</span>append(row)
+f<span style="color: #333333">.</span>close()
+
+
+i<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">1</span>
+lst_rer<span style="color: #333333">=</span>[]
+lst_trans<span style="color: #333333">=</span>[]
+dico_rer<span style="color: #333333">=</span>defaultdict(<span style="color: #007020">list</span>)
+dico_trans<span style="color: #333333">=</span>defaultdict(<span style="color: #007020">list</span>)
+
+
+<span style="color: #008800; font-weight: bold">while</span> i<span style="color: #333333">&lt;</span><span style="color: #007020">len</span>(data):
+    <span style="color: #008800; font-weight: bold">if</span> data[i][<span style="color: #0000DD; font-weight: bold">2</span>]<span style="color: #333333">==</span><span style="background-color: #fff0f0">&quot;RER&quot;</span>:
+        
+        <span style="color: #008800; font-weight: bold">if</span> data[i][<span style="color: #0000DD; font-weight: bold">0</span>] <span style="color: #000000; font-weight: bold">in</span> lst_rer:
+            dico_rer[<span style="color: #007020">str</span>(data[i][<span style="color: #0000DD; font-weight: bold">0</span>])]<span style="color: #333333">.</span>append(data[i])
+        <span style="color: #008800; font-weight: bold">else</span>:
+            lst_rer<span style="color: #333333">.</span>append(data[i][<span style="color: #0000DD; font-weight: bold">0</span>])
+            dico_rer[<span style="color: #007020">str</span>(data[i][<span style="color: #0000DD; font-weight: bold">0</span>])]<span style="color: #333333">.</span>append(data[i])
+            
+    <span style="color: #008800; font-weight: bold">else</span>:
+        <span style="color: #008800; font-weight: bold">if</span> data[i][<span style="color: #0000DD; font-weight: bold">0</span>] <span style="color: #000000; font-weight: bold">in</span> lst_trans:
+            dico_trans[<span style="color: #007020">str</span>(data[i][<span style="color: #0000DD; font-weight: bold">0</span>])]<span style="color: #333333">.</span>append(data[i])
+        <span style="color: #008800; font-weight: bold">else</span>:
+            lst_trans<span style="color: #333333">.</span>append(data[i][<span style="color: #0000DD; font-weight: bold">0</span>])
+            dico_trans[<span style="color: #007020">str</span>(data[i][<span style="color: #0000DD; font-weight: bold">0</span>])]<span style="color: #333333">.</span>append(data[i])
+    <span style="color: #008800; font-weight: bold">if</span> i<span style="color: #333333">==</span><span style="color: #007020">len</span>(data):
+        <span style="color: #008800; font-weight: bold">break</span>
+    <span style="color: #008800; font-weight: bold">else</span>:
+        i<span style="color: #333333">+=</span><span style="color: #0000DD; font-weight: bold">1</span>
+        
+        
+
+<span style="color: #888888">#PARTIE TRAITEMENT DE L&#39;INFORMATION</span>
+<span style="color: #888888">#__________________________________</span>
+        
+        
+        
+xml<span style="color: #333333">=</span><span style="color: #007020">open</span>(<span style="background-color: #fff0f0">&quot;xml.txt&quot;</span>, <span style="background-color: #fff0f0">&quot;a&quot;</span>, encoding<span style="color: #333333">=</span><span style="background-color: #fff0f0">&quot;ISO-8859-1&quot;</span>)
+xml<span style="color: #333333">.</span>write(<span style="background-color: #fff0f0">&quot;&quot;&quot;&lt;racine&gt;</span>
+<span style="background-color: #fff0f0">    &lt;service serv=&quot;rer&quot;&gt;&quot;&quot;&quot;</span>)
+<span style="color: #008800; font-weight: bold">for</span> k <span style="color: #000000; font-weight: bold">in</span> lst_rer:
+    xml<span style="color: #333333">.</span>write(<span style="background-color: #fff0f0">&quot;&quot;&quot;</span>
+<span style="background-color: #fff0f0">        &lt;train id=&quot;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&quot;&gt;</span>
+<span style="background-color: #fff0f0">            &lt;ligne&gt;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&lt;/ligne&gt;</span>
+<span style="background-color: #fff0f0">            &lt;nom_ligne&gt;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&lt;/nom_ligne&gt;</span>
+<span style="background-color: #fff0f0">            &quot;&quot;&quot;</span> <span style="color: #333333">%</span> (k, dico_rer[k][<span style="color: #0000DD; font-weight: bold">0</span>][<span style="color: #0000DD; font-weight: bold">3</span>],dico_rer[k][<span style="color: #0000DD; font-weight: bold">0</span>][<span style="color: #0000DD; font-weight: bold">4</span>]))
+    <span style="color: #008800; font-weight: bold">for</span> i <span style="color: #000000; font-weight: bold">in</span> <span style="color: #007020">range</span>(<span style="color: #007020">len</span>(dico_rer[k])):
+        xml<span style="color: #333333">.</span>write(<span style="background-color: #fff0f0">&quot;&quot;&quot;</span>
+<span style="background-color: #fff0f0">            &lt;mesure&gt;</span>
+<span style="background-color: #fff0f0">                &lt;date&gt;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&lt;/date&gt;</span>
+<span style="background-color: #fff0f0">                &lt;taux&gt;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&lt;/taux&gt;</span>
+<span style="background-color: #fff0f0">                &lt;ratio&gt;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&lt;/ratio&gt;</span>
+<span style="background-color: #fff0f0">            &lt;/mesure&gt;</span>
+<span style="background-color: #fff0f0">            &quot;&quot;&quot;</span> <span style="color: #333333">%</span> (dico_rer[k][i][<span style="color: #0000DD; font-weight: bold">1</span>], dico_rer[k][i][<span style="color: #0000DD; font-weight: bold">5</span>], dico_rer[k][i][<span style="color: #0000DD; font-weight: bold">6</span>]))
+        <span style="color: #008800; font-weight: bold">if</span> i<span style="color: #333333">==</span><span style="color: #007020">len</span>(dico_rer[k])<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>:
+            xml<span style="color: #333333">.</span>write(<span style="background-color: #fff0f0">&quot;&quot;&quot;</span>
+<span style="background-color: #fff0f0">        &lt;/train&gt;</span>
+<span style="background-color: #fff0f0">&quot;&quot;&quot;</span>)
+
+xml<span style="color: #333333">.</span>write(<span style="background-color: #fff0f0">&quot;&quot;&quot;    &lt;/service&gt;</span>
+
+<span style="background-color: #fff0f0">    &lt;service serv=&quot;transilien&quot;&gt;</span>
+<span style="background-color: #fff0f0">    &quot;&quot;&quot;</span>)
+<span style="color: #008800; font-weight: bold">for</span> k <span style="color: #000000; font-weight: bold">in</span> lst_trans:
+    xml<span style="color: #333333">.</span>write(<span style="background-color: #fff0f0">&quot;&quot;&quot;</span>
+<span style="background-color: #fff0f0">        &lt;train id=&quot;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&quot;&gt;</span>
+<span style="background-color: #fff0f0">            &lt;ligne&gt;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&lt;/ligne&gt;</span>
+<span style="background-color: #fff0f0">            &lt;nom_ligne&gt;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&lt;/nom_ligne&gt;</span>
+<span style="background-color: #fff0f0">            &quot;&quot;&quot;</span> <span style="color: #333333">%</span> (k, dico_trans[k][<span style="color: #0000DD; font-weight: bold">0</span>][<span style="color: #0000DD; font-weight: bold">3</span>],dico_trans[k][<span style="color: #0000DD; font-weight: bold">0</span>][<span style="color: #0000DD; font-weight: bold">4</span>]))
+    <span style="color: #008800; font-weight: bold">for</span> i <span style="color: #000000; font-weight: bold">in</span> <span style="color: #007020">range</span>(<span style="color: #007020">len</span>(dico_trans[k])):
+        xml<span style="color: #333333">.</span>write(<span style="background-color: #fff0f0">&quot;&quot;&quot;</span>
+<span style="background-color: #fff0f0">            &lt;mesure&gt;</span>
+<span style="background-color: #fff0f0">                &lt;date&gt;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&lt;/date&gt;</span>
+<span style="background-color: #fff0f0">                &lt;taux&gt;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&lt;/taux&gt;</span>
+<span style="background-color: #fff0f0">                &lt;ratio&gt;</span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&lt;/ratio&gt;</span>
+<span style="background-color: #fff0f0">            &lt;/mesure&gt;</span>
+<span style="background-color: #fff0f0">            &quot;&quot;&quot;</span> <span style="color: #333333">%</span> (dico_trans[k][i][<span style="color: #0000DD; font-weight: bold">1</span>], dico_trans[k][i][<span style="color: #0000DD; font-weight: bold">5</span>], dico_trans[k][i][<span style="color: #0000DD; font-weight: bold">6</span>]))
+        <span style="color: #008800; font-weight: bold">if</span> i<span style="color: #333333">==</span><span style="color: #007020">len</span>(dico_trans[k])<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>:
+            xml<span style="color: #333333">.</span>write(<span style="background-color: #fff0f0">&quot;&quot;&quot;</span>
+<span style="background-color: #fff0f0">        &lt;/train&gt;</span>
+
+<span style="background-color: #fff0f0">        &quot;&quot;&quot;</span>)
+
+
+
+xml<span style="color: #333333">.</span>write(<span style="background-color: #fff0f0">&quot;&quot;&quot;    &lt;/service&gt;</span>
+<span style="background-color: #fff0f0">&lt;/racine&gt;&quot;&quot;&quot;</span>)
+xml<span style="color: #333333">.</span>close()
+        
+            </pre></div>
+
+
+        <h2>5. Affichage d'un document XML</h2>
+        <p>
+            On désire maintenant afficher le document XML qui vient d'être créé, mis en forme dans un navigateur à l'aide d'une
+            feuille de style CSS.
+        </p>
+        <h3>Q6. Afficher le document XML</h3>
+        <p>
+            Afin de ne pas l'écraser par inadvertance et réexécutant le programme python, créer une copie du document XML
+            précédent comportant une référence à une feuille de style CSS permettant de l'afficher de manière pertinente dans un
+            navigateur.
+            Voir le document (ponctualite-mensuelle-transilien-2.xml)
+        </p>
+        <h2>6. Validation d'un document XML</h2>
+        <h3>Q7. Écrire une DTD décrivant la syntaxe du document XML</h3>
+        <p>
+            Inclure au document précédent une DTD décrivant sa syntaxe, sous forme de DTD interne.
+        </p>
+        <h3>Q8. Valider le document XML en ligne</h3>
+        <p>
+            Vérifier la validité du document, c'est-à-dire sa conformité avec la DTD, en le soumettant au validateur en ligne
+            (https://validator.w3.org/#validate_by_upload) du W3C.
+        </p>
+        <h3>Q9. Développer un validateur</h3>
+        <p>
+            Valider le document à l'aide d'un programme python que vous développerez à l'aide du module lxml (http://lxml.de
+            /validation.html).
+        </p>
     </body>
 </html>

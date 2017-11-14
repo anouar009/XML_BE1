@@ -1,0 +1,15 @@
+
+<?xml version="1.0" ?>
+<!DOCTYPE racine [
+	<!ELEMENT racine (service+)>
+	<!ELEMENT service (train+)>
+	<!ELEMENT train (ligne, nom_ligne, mesure+)>
+	<!ELEMENT ligne (#PCDATA)>
+	<!ELEMENT nom_ligne (#PCDATA)>
+	<!ELEMENT mesure (date, taux, ratio)>
+	<!ELEMENT date (#PCDATA)>
+	<!ELEMENT taux (#PCDATA)>
+	<!ELEMENT ratio (#PCDATA)>
+	<!ATTLIST service serv (rer|transilien) #REQUIRED>
+	<!ATTLIST train id ID #REQUIRED>
+]>

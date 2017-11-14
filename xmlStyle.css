@@ -1,0 +1,67 @@
+racine {
+    display:block;
+    margin:6em;
+}
+service {
+    display: table;
+    font-size:2em;    
+}
+
+service:before{
+    content:  "" attr(serv)  "";
+    padding: 15px;
+    align-items: center;
+    color: crimson;
+    margin-right: 15px;
+    padding: 0px 0px 6px 0px;
+    font-size: 51px;
+    line-height: 44px;
+    letter-spacing: -2px;
+    font-weight: bold;
+
+}
+
+train {
+    display: table;
+    float: left;
+    margin-right: 10px;
+
+
+}
+train:before{
+    content:  "" attr(id)  "";
+    color: #444;
+    margin-right: 15px;
+    padding: 0px 0px 6px 0px;
+    font-size: 21px;
+    line-height: 44px;
+    letter-spacing: -2px;
+    font-weight: bold;
+}
+
+ligne {
+    margin: 10px;
+    color: brown;
+}
+mesure {
+    display: table-row-group;
+    background-color: aqua;
+
+}
+date {
+    display: table-cell;
+    background-color: blue;
+    border: black solid 1px;
+
+}
+taux {
+    display: table-cell;
+    background-color: burlywood;
+    border: black solid 1px;
+}
+
+ratio {
+    display: table-cell;
+    background-color: blueviolet;
+    border: black solid 1px;
+}

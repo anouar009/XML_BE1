@@ -1,0 +1,123 @@
+racine:before {
+    display:block;    
+    padding: 1em;
+    font-size: 1.8em;
+    content: "La ponctualité des trains de banlieue parisiens entre janvier 2013 et août 2015.";
+    font-weight: bold;
+    color:#EEEEEE;    
+    background-color: rgba(50, 50, 50, 0.6);
+}
+
+racine{
+    display:block;      
+    margin:2em;     
+    font-family: sans-serif;
+}
+
+service:before {
+    display:block;  
+    padding: 1em;
+    font-size: 1.8em;
+    content:  "Le service: "attr(serv)"";
+    font-weight: bold;
+    color: brown;   
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0);
+}
+service{
+    display: inline-block;
+
+    /*Move children to the right*/
+    /*padding-left:315px;*/
+    padding-top: 1em;    
+    /*background-color: rgb(194, 218, 223);*/
+
+
+}
+
+service > * {
+    padding-bottom: 0.2em;
+    background-color: rgba(0,0,0, 0.1);
+}
+
+service:after{
+    padding:0 0 0.5em 0;
+    font-family:monospace;
+    font-size: 1em;
+    text-align:center;
+    width:100%;        
+    font-family:monospace;
+    /* 
+        The actual button to action mapping is defined in the file:
+                
+        ${frameworks}/sample_frameworks/css/serviceal.css
+        
+        The action is defined in the "Personal" framework. See Options > Document Types
+    */    
+}
+
+
+
+train {
+    display: table;
+    float: left;
+    margin-right: 10px;
+    padding: 15px;
+}
+train:before{
+    display:table-header-group;    
+    content:  "ID: " attr(id)  "";
+    padding: 1em;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: blueviolet;    
+    background-color: rgba(0, 0, 0, 0);
+
+}
+
+ligne:before{
+    content: "La ligne: ";
+}
+ligne {
+    display: block;  
+    font-weight: bold;
+    color: crimson;    
+    background-color: rgba(0, 0, 0, 0);
+    
+}
+
+nom_ligne:before{
+    content: "Nom : ";
+}
+nom_ligne {
+    display: block;  
+    font-weight: bold;
+    color: chocolate;    
+    background-color: rgba(0, 0, 0, 0); 
+}
+
+mesure {
+    display: table-row-group;
+}
+mesure:nth-child(even){background-color: appworkspace;}
+mesure:hover {background-color: #ddd;}
+date {
+    display: table-cell;
+    border: black solid 1px;
+    width: 250px;
+
+}
+taux {
+    display: table-cell;
+    width: 100px;
+    border: black solid 1px;
+}
+
+ratio {
+    display: table-cell;
+    width: 100px;
+    border: black solid 1px;
+}
+
+
+
